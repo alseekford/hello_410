@@ -9,31 +9,17 @@ I'm Anne Louise! I am a second-semester senior majoring in Data Science and mino
 ```markdown
 - I'm from Leesburg, Virginia
 - I have two dogs, one of which my brother named after his favorite food, Taco🌮
-[Image](src)
+ 0EE2E887-BEE4-4159-BF24-9A5BF37B3D40.JPG
 - Played volleyball all four years at William & Mary
 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Math Equation!
 ```markdown
-**Euclidean Algorithm**
-Based off of the division algorithm and assuming Euclid's lemma, we get the Euclidean to compute GCD:
+**Division Algorithm**
+
 ```
 ![Image](render)
 
