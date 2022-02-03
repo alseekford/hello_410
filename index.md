@@ -8,19 +8,22 @@ I'm Anne Louise! I am a second-semester senior majoring in Data Science and mino
 
 ```markdown
 - I'm from Leesburg, Virginia
-- I have two dogs, one of which my brother named after his favorite food, Taco🌮
- ![Pic of Taco!](https://github.com/alseekford/hello_410/blob/gh-pages/0EE2E887-BEE4-4159-BF24-9A5BF37B3D40.JPG)
 - Played volleyball all four years at William & Mary
 
 
+- I have two dogs, one of which my brother named after his favorite food, Taco🌮! Here she is:
+
 ```
+![0EE2E887-BEE4-4159-BF24-9A5BF37B3D40](https://user-images.githubusercontent.com/71660299/152415509-01cd4413-3651-4cf6-ab1f-0baad007b5a2.JPG)
 
 
 ### Math Equation!
 ```markdown
+
 **Division Algorithm**
-![Division Algorithm](https://github.com/alseekford/hello_410/blob/gh-pages/render.png)
 ```
+![render](https://user-images.githubusercontent.com/71660299/152415828-f57550c2-e482-450a-a7b2-96d1822a1d38.png)
+
 
 
 
