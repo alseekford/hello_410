@@ -11,7 +11,7 @@ I'm Anne Louise! I am a second-semester senior majoring in Data Science and mino
 - Played volleyball all four years at William & Mary
 
 
-- I have two dogs, one of which my brother named after his favorite food, Taco🌮! Here she is:
+- I have two dogs, one of which my brother named after his favorite food, Taco🌮! Here she is dressed up for Christmas:
 
 ```
 ![0EE2E887-BEE4-4159-BF24-9A5BF37B3D40](https://user-images.githubusercontent.com/71660299/152415509-01cd4413-3651-4cf6-ab1f-0baad007b5a2.JPG)
@@ -29,6 +29,8 @@ I'm Anne Louise! I am a second-semester senior majoring in Data Science and mino
 
 ### Fun Python Code!
 ```markdown
+This code returns your age!
+
 from datetime import date
  
 def calculateAge(birthDate):
