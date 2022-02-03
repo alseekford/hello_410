@@ -1,15 +1,17 @@
-## Welcome to GitHub Pages
+## Hi 410!
 
-You can use the [editor on GitHub](https://github.com/alseekford/hello_410/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm Anne Louise! I am a second-semester senior majoring in Data Science and minoring in Mathematics! Looking forwards to this class!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Quick About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+- I'm from Leesburg, Virginia
+- I have two dogs, one of which my brother named after his favorite food, Taco🌮
+[Image](src)
+- Played volleyball all four years at William & Mary
+
 
 # Header 1
 ## Header 2
@@ -23,14 +25,25 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Math Equation!
+```markdown
+**Euclidean Algorithm**
+Based off of the division algorithm and assuming Euclid's lemma, we get the Euclidean to compute GCD:
+```
+![Image](render)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alseekford/hello_410/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Some Python Code
+```markdown
+
+```
+
+
 
 ### Support or Contact
 
