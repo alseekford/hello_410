@@ -9,7 +9,7 @@ I'm Anne Louise! I am a second-semester senior majoring in Data Science and mino
 ```markdown
 - I'm from Leesburg, Virginia
 - I have two dogs, one of which my brother named after his favorite food, Taco🌮
- ![0EE2E887-BEE4-4159-BF24-9A5BF37B3D40.JPG]
+ ![Pic of Taco!](/hello_410/0EE2E887-BEE4-4159-BF24-9A5BF37B3D40.JPG)
 - Played volleyball all four years at William & Mary
 
 
@@ -19,9 +19,9 @@ I'm Anne Louise! I am a second-semester senior majoring in Data Science and mino
 ### Math Equation!
 ```markdown
 **Division Algorithm**
-
+![Division Algorithm](/hello_410/render.png)
 ```
-![Image](render)
+
 
 
 ### Some Python Code
